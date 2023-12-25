@@ -1,0 +1,23 @@
+.header{
+    background-image: url('https://i.stack.imgur.com/Of2w5.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size:cover;
+    height: 600px;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.headersm{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+    text-shadow: 1px 2px 3px ;
+}
+.headerbig{
+    color: white;
+    font-size: 90px;
+    text-shadow: 1px 2px 3px ;
+}
